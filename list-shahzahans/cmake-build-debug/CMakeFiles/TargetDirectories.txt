@@ -1,0 +1,3 @@
+/tmp/list-shahzahans/cmake-build-debug/CMakeFiles/list.dir
+/tmp/list-shahzahans/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/list-shahzahans/cmake-build-debug/CMakeFiles/rebuild_cache.dir
